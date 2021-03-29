@@ -1,0 +1,30 @@
+﻿  Editor.cpp
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\LinkedList.h(44,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\LinkedList.h(50): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\LinkedList.h(49,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\LinkedList.cpp(151,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\LinkedList.cpp(169,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryTreeInterface.h(64,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryTreeInterface.h(83): message : see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryNodeTree.h(84,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryNodeTree.h(103): message : see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryNodeTree.h(89,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryNodeTree.cpp(288,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinaryNodeTree.cpp(322,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.h(72,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.h(91): message : see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.h(73,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.h(77,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.cpp(235,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.cpp(245,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\BinarySearchTree.cpp(270,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(86,8): warning C4101: 'coord': unreferenced local variable
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(168,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(214,20): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(238,20): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(253,26): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(258,26): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(266,25): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(271,25): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\AlexM\source\repos\LinkedList\LinkedList\Editor.cpp(280,15): warning C4244: 'initializing': conversion from 'wint_t' to 'char', possible loss of data
+  LinkedList.vcxproj -> C:\Users\AlexM\source\repos\LinkedList\Debug\LinkedList.exe
